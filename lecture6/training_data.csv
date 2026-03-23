@@ -1,2 +1,0 @@
-df = pd.read_csv("/tmp/gold_pipeline/training_data.csv")
-df.head(20).to_csv("training_data_sample.csv", index=False)
