@@ -1,2 +1,3 @@
-df = pd.read_csv("/tmp/gold_pipeline/war_news.csv")
-df.head(20).to_csv("war_news_sample.csv", index=False)
+date,title,summary
+2024-03-10,War escalates in region,Conflict intensifies with military action
+2024-03-11,New attack reported,Military forces launched new operations
